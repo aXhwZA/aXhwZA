@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: **danielpedro0m@gmail.com**
 
-- ⚡ Fun fact 👀: **catJam is my fav. gif**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-medeiros-8131a31aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniel-medeiros-8131a31aa" height="30" width="40" /></a>
