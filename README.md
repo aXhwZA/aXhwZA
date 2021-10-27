@@ -25,8 +25,8 @@
 <div>
 
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desendaniel&theme=onedark&show_icons=true&locale=en" width="425" alt="desendaniel" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desendaniel&theme=onedark" width="425" alt="desendaniel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desendaniel&theme=onedark&show_icons=true&locale=en" width="423" alt="desendaniel" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desendaniel&theme=onedark" width="423" alt="desendaniel" />
 </p>
 
 ![Snake animation](https://github.com/desendaniel/desenDaniel/blob/output/github-contribution-grid-snake.svg)
