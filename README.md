@@ -25,11 +25,11 @@
 <div>
 
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desendaniel&theme=onedark&show_icons=true&locale=en" width="380" alt="desendaniel" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desendaniel&theme=onedark" width="380" alt="desendaniel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ixpd&theme=onedark&show_icons=true&locale=en" width="380" alt="desendaniel" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ixpd&theme=onedark" width="380" alt="desendaniel" />
 </p>
 
-![Snake animation](https://github.com/desendaniel/desenDaniel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ixpd/ixpd/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
