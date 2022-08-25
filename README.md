@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Adapcon](https://github.com/Adapcon)  
   
 
-- - 📫 How to reach me **danielpedro0m@gmail.com**  
+- 📫 How to reach me **danielpedro0m@gmail.com**  
   
 
 <br/>  
