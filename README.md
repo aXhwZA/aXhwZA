@@ -1,7 +1,7 @@
 ### <div align="center">I'm Daniel, a full-time full-stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Clinicorp](https://www.clinicorp.com/)  
+- 🔭 I’m currently working by myself
   
 - ⚙️ My portfolio: https://www.axhwza.codes/
 
