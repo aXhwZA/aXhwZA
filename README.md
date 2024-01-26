@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working by myself
   
-- ⚙️ My portfolio: https://www.axhwza.codes/
+- ⚙️ My portfolio: https://daniel.meddeiros.tech/
 
 - 📫 How to reach me **danielpedro0m@gmail.com**  
   
