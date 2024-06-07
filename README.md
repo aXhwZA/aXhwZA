@@ -48,3 +48,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=desendaniel&&style=flat-square" align="center" />
 </div>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/690591451431567430/1248756829769433148/Group_39_2.png?ex=6664d2ec&is=6663816c&hm=bdc6f46148aeebc5d608f56c84d3ba15367e3f243b8858cc2f5e9d09a8c3c81b&');]{x0000}$}
