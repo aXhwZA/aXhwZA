@@ -5,7 +5,7 @@
   
 - ⚙️ My portfolio: https://daniel.meddeiros.tech/
 
-- 📫 How to reach me **danielpedro0m@gmail.com**  
+- 📫 How to reach me **daniel@meddeiros.tech**  
   
 
 <br/>  
