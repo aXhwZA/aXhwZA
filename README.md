@@ -1,7 +1,7 @@
 ### <div align="center">I'm Daniel, a full-time full-stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working by myself
+- 🔭 I’m currently working at [Widelab](https://widelab.com.br/)
   
 - ⚙️ My portfolio: https://daniel.meddeiros.tech/
 
